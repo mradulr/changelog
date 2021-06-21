@@ -2,6 +2,6 @@ package changelog
 
 import "fmt"
 
-func get() {
+func Get() {
 	fmt.Println("Changelog")
 }
