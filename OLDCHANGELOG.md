@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.4](https://github.com/mradulr/changelog/compare/v1.1.3...v1.1.4) (2021-06-23)
+
+### [1.1.3](https://github.com/mradulr/changelog/compare/v1.1.2...v1.1.3) (2021-06-23)
+
+### [1.1.2](https://github.com/mradulr/changelog/compare/v1.1.1...v1.1.2) (2021-06-23)
+
+### [1.1.1](https://github.com/mradulr/changelog/compare/v1.1.0...v1.1.1) (2021-06-23)
+
+## [1.1.0](https://github.com/mradulr/changelog/compare/v1.0.30...v1.1.0) (2021-06-23)
+
+
+### Features
+
+* test files ([b1d2264](https://github.com/mradulr/changelog/commit/b1d2264f9962398939c8ec4739d85fd4a9d34f2e))
+
+
+### Bug Fixes
+
+* handle exception ([e420701](https://github.com/mradulr/changelog/commit/e420701bd6df7e9a11249dae126096ac908fe70f))
+
+### [1.0.30](https://github.com/mradulr/changelog/compare/v1.0.29...v1.0.30) (2021-06-22)
+
 ### [1.0.29](https://github.com/mradulr/changelog/compare/v1.0.28...v1.0.29) (2021-06-22)
 
 ### [1.0.28](https://github.com/mradulr/changelog/compare/v1.0.27...v1.0.28) (2021-06-22)
