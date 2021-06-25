@@ -1,3 +1,5 @@
+### [1.2.7](https://github.com/mradulr/changelog/compare/v1.2.6...v1.2.7) (2021-06-25)
+
 ### [1.2.6](https://github.com/mradulr/changelog/compare/v1.2.5...v1.2.6) (2021-06-24)
 
 ### [1.2.5](https://github.com/mradulr/changelog/compare/v1.2.4...v1.2.5) (2021-06-24)
