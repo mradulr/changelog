@@ -1,1 +1,1 @@
-### [1.2.9](https://github.com/mradulr/changelog/compare/v1.2.8...v1.2.9) (2021-06-28)
+### [1.2.11](https://github.com/mradulr/changelog/compare/v1.2.10...v1.2.11) (2021-06-28)
